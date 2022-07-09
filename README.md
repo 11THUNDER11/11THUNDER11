@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there. 👋
+
+🌱 What I'm currently learning 
+I'm studying I.T. engineering at Bologna university.
+
+😄 What i'm interested in
+A part from university i like studying concepts related to cyber security, developying an sort of application.
+
 
 <!--
 **11THUNDER11/11THUNDER11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

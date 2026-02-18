@@ -1,4 +1,4 @@
-### Hi there! I'm Alberto Catellani 👋
+# Hi there! I'm Alberto Catellani 👋
 **Computer Science & Engineering Student** 🎓
 
 I'm just a curious student who wants to learn something new everyday in software development, AI, and finance. Currently, I'm focusing on how to bridge the gap between robust software architecture and the precision required for quantitative models.

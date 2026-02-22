@@ -1,5 +1,4 @@
 # Hi there! I'm Alberto Catellani 👋
-**HPC & Systems Engineer | Aspiring Quant Developer** 🚀
 
 I am a Computer Science & Engineering student at the University of Bologna, specializing in **High-Performance Computing** and **AI**.
 
